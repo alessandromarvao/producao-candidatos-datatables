@@ -1,0 +1,36 @@
+body
+{
+    background-color: #D5D8DC;
+}
+
+header
+{
+    position: sticky;
+    background-color: #626567;
+    color: #EAECEE;
+    font-family: "Liberation Sans";
+    padding: 20px;
+}
+
+.container
+{
+    margin-top: 2em;
+}
+
+.container form
+{
+    border-radius: 5px;
+    border: 10;
+    padding: 20px;
+    /* background-color: #EAECEE; */
+    background-color: #A6ACAF;
+}
+
+.container form output
+{
+    font-size: 20px;
+}
+
+table thead tr th:hover {
+    cursor: pointer;
+}
